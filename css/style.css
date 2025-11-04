@@ -38,13 +38,6 @@
             padding-left: 50px;
         }
 
-        img {
-            display: block;
-            margin: 0 auto;
-            width: 300px;
-            height: auto;
-            border-radius: 10px;
-        }
 
         iframe {
             display: block;
